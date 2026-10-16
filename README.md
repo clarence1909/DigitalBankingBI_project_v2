@@ -148,7 +148,7 @@ You need Python 3.11 or newer and Git. LibreOffice is optional: if it is install
 
 ## About
 
-Built by Clarence Zhen Jin Tan as a portfolio project. Every design choice is explained in the [decision log](docs/decisions.md).
+Built by Clarence Tan Zhen Jin as a portfolio project. Every design choice is explained in the [decision log](docs/decisions.md).
 
 ## Licence
 
